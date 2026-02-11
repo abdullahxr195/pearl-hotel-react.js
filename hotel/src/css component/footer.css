@@ -1,0 +1,27 @@
+#footer{
+    background-color: #F3E7D9;
+    text-align: center; 
+    padding: 10px 0; 
+    position: fixed; 
+    bottom: 0; 
+    width: 100%; 
+    
+
+}
+
+#foot{
+ display: flex;
+    justify-content: space-around;
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 30px;
+    list-style: none;
+    
+}
+
+.afoot{
+    text-decoration: none;
+    color: black;
+
+
+}
