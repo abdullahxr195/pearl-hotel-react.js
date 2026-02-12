@@ -28,7 +28,7 @@ const party =[
 
 const party2 =[
 // {id:1 , name:'event1' , description1:'this is the second party'},
-{id:1 , name1:'event1' , description1:'🔥 An unforgettable adventure in the heart of the desert! 🔥Embark on an exciting and thrilling desert cycling experience, with golden sands and exciting trails waiting for you. Experience the pleasure of driving amidst the sand dunes and enjoy the enchanting desert nature.Whether you are an adventure lover or looking for a new adrenaline-filled experience, our trip gives you the opportunity to discover the desert in a different and fun way, with modern equipment and professional guidance to ensure a safe and fun experience.🏜 Enjoy the stunning views🏍 Live an action-packed driving experience👨‍👩‍👧 Suitable for friends, families and adventure lovers' ,image:'https://i.pinimg.com/1200x/3e/1e/5a/3e1e5a184d6d83463d1794885e99ef95.jpg' },
+{id:1 , name1:'event1' , description1:'🔥 An unforgettable adventure in the heart of the desert! 🔥Embark on an exciting and thrilling desert cycling experience, with golden sands and exciting trails waiting for you. Experience the pleasure of driving amidst the sand dunes and enjoy the enchanting desert nature.Whether you are an adventure lover or looking for a new adrenaline-filled experience, our trip gives you the opportunity to discover the desert in a different and fun way, with modern equipment and professional guidance to ensure a safe and fun experience.🏜 Enjoy the stunning views🏍 Live an action-packed driving experience👨‍👩‍👧 Suitable for friends, families and adventure lovers' ,image:'https://i.pinimg.com/1200x/08/d3/0b/08d30b867ba3ada50c4e06f8287d3b36.jpg' },
 {id:2 , name2:'event2' , description2:'Whether you are a beginner or a professional, the horse riding experience will give you the opportunity to enjoy the stunning scenery, and feel free while setting off confidently between the open paths. Carefully trained horses are provided with specialist supervision to ensure a safe and enjoyable experience for everyone.✨ An experience that combines fun and relaxation🐎 Trained horses suitable for all levels🌿 Charming natural atmosphere, ideal for photography👨‍👩‍👧 Suitable for individuals, families and adventure lovers' ,image:'https://i.pinimg.com/736x/63/56/20/635620b1bd58aa436708973653d5b381.jpg' },
 {id:3 , name4:'event3' , description3:'this is the fourth party' ,image:'https://i.pinimg.com/736x/e8/9e/00/e89e00add913e579a735f0b19c163581.jpg' },
 // {id:4 , name4:'event4' ,description4:'this is the fourth party' },
@@ -52,8 +52,8 @@ const party3 =[
     return (
         <div>
 
-            
-           <Card sx={{ maxWidth: 345 }}>
+         <div className='num1'>
+           <Card sx={{ width: 400 }} >
       <CardActionArea>
         <CardMedia
           component="img"
@@ -110,7 +110,7 @@ const party3 =[
 
 
 
-  <Card sx={{ maxWidth: 345 }}>
+  <Card sx={{width: 400 }}>
       <CardActionArea>
         <CardMedia
           component="img"
@@ -172,12 +172,12 @@ const party3 =[
 
 
 
- <Card sx={{ maxWidth: 345 }}>
+ <Card sx={{ width: 400 }} >
       <CardActionArea>
         <CardMedia
           component="img"
           height="140"
-          image="https://i.pinimg.com/1200x/3e/1e/5a/3e1e5a184d6d83463d1794885e99ef95.jpg"
+          image="https://i.pinimg.com/1200x/3e/1e/5a/3e1e5a184d6d83463d1794885e99ef95.jpg" className='img'
           alt="green iguana"
         />
         <CardContent>
@@ -210,7 +210,7 @@ const party3 =[
                             {/* <h3>{item.name}</h3>
                             <p>{item.description}</p> */}
                             
-                            <Link to='/page-event' state={item}><button id='button1'>View Event</button></Link>
+                            <Link to='/page-event' state={item}  className='link' ><button id='button1'>View Event</button></Link>
 
                         </div>
 
@@ -226,7 +226,7 @@ const party3 =[
       </CardActions>
     </Card>
 
-
+</div>
 
 
 

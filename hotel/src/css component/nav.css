@@ -7,15 +7,33 @@ height: 120px;
 
 #ul-nav{
     display: flex;
-    padding: 20px;
-    margin-top: 20px;
-    font-size: 30px;
+    gap: 50px;
     list-style: none;
-    gap: 20px;
+    margin: auto;
+    
+}
+
+.nav-link{
+    text-decoration: none;
+    color: white;
+    font-size: 50px;
+    font-weight: bold;
+    
+}
+
+.nav-link:hover{
+    color: #F3E7D9;
 }
 
 
-    
+
+
+
+
+
+
+
+
 
 
 
