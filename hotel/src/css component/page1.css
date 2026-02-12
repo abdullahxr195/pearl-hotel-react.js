@@ -31,8 +31,8 @@ background-color: antiquewhite;
 
 
 #button1:hover{
-    box-shadow: -5px -5px 23px #02a592,
-    5px 5px 23px #6aab49;
+    box-shadow: -5px -5px 23px #544349,
+    5px 5px 23px #544349;
 
 }
 
@@ -40,12 +40,12 @@ background-color: antiquewhite;
 
 
 #button1{
-    background-color: #000000;
+    background-color:#6f5a4b ;
     border: none;
     border-radius: 30px;
     font-size: 15px;
     font-weight: bold;
-    color: rgb(237, 22, 22);
+    color:#e9e9ea;
   transition: box-shadow 0.3s ease-in-out;
   width:200px;
   height: 50px;
