@@ -22,7 +22,7 @@ export default function Footer() {
         </ul>
         <ul>
             <li>
-                <a class="afoot" href="#to inquire:0785162660">to inquire:0785162660</a>
+                <a  class="afoot" href="tel:+962776121820">for booking:0776121820</a>
             </li>
         </ul>
         

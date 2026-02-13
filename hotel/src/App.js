@@ -25,9 +25,9 @@ function App() {
         <Route path="/services-page4" Component={Services4}/>
       </Routes>
 
-     
+      <Footer />
       </BrowserRouter>
-       {/* <Footer /> */}
+      
      
       
     </div>

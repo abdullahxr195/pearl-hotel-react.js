@@ -1,11 +1,12 @@
 #footer{
-    background-color: #F3E7D9;
+    background-color: #544349;
     text-align: center; 
-    padding: 10px 0; 
-    position: fixed; 
-    bottom: 0; 
-    width: 100%; 
-    
+    margin-bottom: 0px;
+   list-style: none;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    padding: 20px;
 
 }
 
@@ -13,11 +14,15 @@
     display: flex;
     justify-content: center;
     gap: 20px;
+    
 }
 
 .afoot{
+    display: flex;
     text-decoration: none;
-    color: black;
+    color: rgb(153, 130, 93);
+    list-style: none;
+    
 
 
 }

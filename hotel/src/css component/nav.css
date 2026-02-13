@@ -7,9 +7,13 @@ height: 120px;
 
 #ul-nav{
     display: flex;
+    position: static;
     gap: 50px;
     list-style: none;
-    margin: auto;
+   
+  
+    
+    
     
 }
 
@@ -19,19 +23,53 @@ height: 120px;
     font-size: 50px;
     font-weight: bold;
     
+    
 }
 
 .nav-link:hover{
     color: #F3E7D9;
 }
 
+@media screen and (max-width: 600px) {
+
+    #nav{
+        height: 100%;
+    }
+
+    .nav-link{
+        font-size: 30px;
+    }
+    
+}
 
 
 
 
 
+@media screen and (max-width: 900px) {
+
+    #nav{
+        height: 80px;
+    }
+
+    .nav-link{
+        font-size: 30px;
+    }
+    
+}
 
 
+@media screen and (max-width: 1024px) {
+
+    #nav{
+        height: 80px;
+    }
+
+    .nav-link{
+        font-size: 30px;
+    }
+    
+}
 
 
 

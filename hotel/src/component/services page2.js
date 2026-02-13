@@ -30,8 +30,8 @@ export default function Services2() {
             Turkish bath
           </Typography>
           <Typography variant="body2" sx={{ color: 'text.secondary' }}>
-            Lizards are a widespread group of squamate reptiles, with over 6,000
-            species, ranging across all continents except Antarctica
+            The Turkish bath is a traditional place to relax and cleanse the body using steam and warm water with massage and skin peeling sessions.
+            It is known for its calm atmosphere that helps stimulate blood circulation and a feeling of comfort and relaxation.
           </Typography>
         </CardContent>
       </CardActionArea>
@@ -52,8 +52,8 @@ export default function Services2() {
             Moroccan bath
           </Typography>
           <Typography variant="body2" sx={{ color: 'text.secondary' }}>
-            Lizards are a widespread group of squamate reptiles, with over 6,000
-            species, ranging across all continents except Antarctica
+            The Moroccan bath is a traditional body care ritual based on steam, local soap, and exfoliating the skin with a Moroccan glove.
+            It helps to deeply cleanse the skin and give the body a feeling of freshness and relaxation.
           </Typography>
         </CardContent>
       </CardActionArea>
@@ -74,8 +74,9 @@ export default function Services2() {
             jungle spa
           </Typography>
           <Typography variant="body2" sx={{ color: 'text.secondary' }}>
-            Lizards are a widespread group of squamate reptiles, with over 6,000
-            species, ranging across all continents except Antarctica
+          ✨ Escape the stresses of life and enjoy a unique relaxing experience amidst the enchanting nature atmosphere at Jungle Spa.
+          💆‍♀️ We offer you professional massage sessions, steam baths, and comprehensive care treatments that give you comfort and rejuvenation.
+          🌸 Pamper yourself… because your comfort starts here.
           </Typography>
         </CardContent>
       </CardActionArea>
@@ -100,8 +101,8 @@ export default function Services2() {
             Stone bath
           </Typography>
           <Typography variant="body2" sx={{ color: 'text.secondary' }}>
-            Lizards are a widespread group of squamate reptiles, with over 6,000
-            species, ranging across all continents except Antarctica
+            ✨ Enjoy a unique relaxation experience with Stone Bath, which helps relieve stress and stimulate blood circulation thanks to the heat of the natural stones.
+            🌿 Pamper your body with a session that gives you deep comfort and long-lasting freshness.
           </Typography>
         </CardContent>
       </CardActionArea>
@@ -125,8 +126,8 @@ export default function Services2() {
             Hot stone massage
           </Typography>
           <Typography variant="body2" sx={{ color: 'text.secondary' }}>
-            Lizards are a widespread group of squamate reptiles, with over 6,000
-            species, ranging across all continents except Antarctica
+           🔥 Enjoy a Hot Stone Massage session that helps relax deep muscles and relieve tension and stress.
+           💆‍♀️ A warm experience that gives you deep relaxation and a feeling of comfort and refreshment.
           </Typography>
         </CardContent>
       </CardActionArea>
@@ -149,8 +150,8 @@ export default function Services2() {
             Massage with aromatic olives
           </Typography>
           <Typography variant="body2" sx={{ color: 'text.secondary' }}>
-            Lizards are a widespread group of squamate reptiles, with over 6,000
-            species, ranging across all continents except Antarctica
+            An olive oil essential massage experience that helps moisturize and nourish the skin while giving the body deep relaxation.
+            Combines the natural benefits of oil with soothing fragrances to rejuvenate and feel comfortable
           </Typography>
         </CardContent>
       </CardActionArea>

@@ -30,8 +30,7 @@ export default function Services4() {
             Golf
           </Typography>
           <Typography variant="body2" sx={{ color: 'text.secondary' }}>
-            Lizards are a widespread group of squamate reptiles, with over 6,000
-            species, ranging across all continents except Antarctica
+           ⛳ Enjoy focus and precision on stunning golf courses! Learn new skills, relax outdoors, and live a high-end sports experience.
           </Typography>
         </CardContent>
       </CardActionArea>
@@ -54,8 +53,7 @@ export default function Services4() {
             scuba diving
           </Typography>
           <Typography variant="body2" sx={{ color: 'text.secondary' }}>
-            Lizards are a widespread group of squamate reptiles, with over 6,000
-            species, ranging across all continents except Antarctica
+            🤿 Explore the depths of the sea and the splendor of diving! Live an adventurous experience, discover colorful marine life, and enjoy excitement and safety with professional diving experts. 🌊✨
           </Typography>
         </CardContent>
       </CardActionArea>
@@ -77,8 +75,7 @@ export default function Services4() {
             tennis
           </Typography>
           <Typography variant="body2" sx={{ color: 'text.secondary' }}>
-            Lizards are a widespread group of squamate reptiles, with over 6,000
-            species, ranging across all continents except Antarctica
+          🎾 Challenge yourself and improve your skills on the tennis courts! Enjoy fitness, speed, focus, and enjoy the spirit of competition and excitement with every hit. 🏆✨
           </Typography>
         </CardContent>
       </CardActionArea>
@@ -102,8 +99,7 @@ export default function Services4() {
             polo
           </Typography>
           <Typography variant="body2" sx={{ color: 'text.secondary' }}>
-            Lizards are a widespread group of squamate reptiles, with over 6,000
-            species, ranging across all continents except Antarctica
+           🐎⚡ Live excitement and luxury with polo! Skill, speed, and focus on the horse's back in a game that combines strength, elegance, and a competitive spirit. 🏑✨
           </Typography>
         </CardContent>
       </CardActionArea>
@@ -125,8 +121,7 @@ export default function Services4() {
            Jet racing
           </Typography>
           <Typography variant="body2" sx={{ color: 'text.secondary' }}>
-            Lizards are a widespread group of squamate reptiles, with over 6,000
-            species, ranging across all continents except Antarctica
+            🌊🏍️ Enjoy the excitement and speed on the water with jet skis! An experience full of fun and excitement, combining action, adventure, and refreshment in the heart of nature. ☀️✨
           </Typography>
         </CardContent>
       </CardActionArea>
@@ -149,8 +144,7 @@ export default function Services4() {
             skydiving
           </Typography>
           <Typography variant="body2" sx={{ color: 'text.secondary' }}>
-            Lizards are a widespread group of squamate reptiles, with over 6,000
-            species, ranging across all continents except Antarctica
+           🪂✨ Free yourself in the sky and enjoy unforgettable excitement with skydiving! An experience full of freedom, adventure, and excitement over stunning views. 🌤️🌟
           </Typography>
         </CardContent>
       </CardActionArea>

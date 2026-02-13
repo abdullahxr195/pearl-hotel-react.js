@@ -18,7 +18,7 @@ const {count , setCount} = useState(0);
 
 
 const party =[
-{id:1 , name:'event1' , description:'✨ Get ready for the strongest parties of the season! ✨Al Hadaba fans have an exceptional night full of enthusiasm and singing with the great star Amr Diab 🎤Enjoy the most beautiful songs, the latest rhythms, and an unforgettable atmosphere with one of the biggest stars in the Arab world. A night full of energy, music, and legendary moments awaits you!📅 Date: (20/3/2026) ⏰ Time: (10:00 pm)' , image:'https://i.pinimg.com/736x/4d/cd/4b/4dcd4b7d2386e3b5932ce0ae73aacbf7.jpg'},
+{id:1 , name :'event1' , description:'✨ Get ready for the strongest parties of the season! ✨Al Hadaba fans have an exceptional night full of enthusiasm and singing with the great star Amr Diab 🎤Enjoy the most beautiful songs, the latest rhythms, and an unforgettable atmosphere with one of the biggest stars in the Arab world. A night full of energy, music, and legendary moments awaits you!📅 Date: (20/3/2026) ⏰ Time: (10:00 pm)' , image:'https://i.pinimg.com/736x/4d/cd/4b/4dcd4b7d2386e3b5932ce0ae73aacbf7.jpg' },
 // {id:2 , name2:'event2' , description2:'this is the second party' },
 // {id:3 , name3:'event3' ,description3:'this is the second party' },
 
@@ -27,10 +27,11 @@ const party =[
 
 
 const party2 =[
+  
 // {id:1 , name:'event1' , description1:'this is the second party'},
 {id:1 , name1:'event1' , description1:'🔥 An unforgettable adventure in the heart of the desert! 🔥Embark on an exciting and thrilling desert cycling experience, with golden sands and exciting trails waiting for you. Experience the pleasure of driving amidst the sand dunes and enjoy the enchanting desert nature.Whether you are an adventure lover or looking for a new adrenaline-filled experience, our trip gives you the opportunity to discover the desert in a different and fun way, with modern equipment and professional guidance to ensure a safe and fun experience.🏜 Enjoy the stunning views🏍 Live an action-packed driving experience👨‍👩‍👧 Suitable for friends, families and adventure lovers' ,image:'https://i.pinimg.com/1200x/08/d3/0b/08d30b867ba3ada50c4e06f8287d3b36.jpg' },
 {id:2 , name2:'event2' , description2:'Whether you are a beginner or a professional, the horse riding experience will give you the opportunity to enjoy the stunning scenery, and feel free while setting off confidently between the open paths. Carefully trained horses are provided with specialist supervision to ensure a safe and enjoyable experience for everyone.✨ An experience that combines fun and relaxation🐎 Trained horses suitable for all levels🌿 Charming natural atmosphere, ideal for photography👨‍👩‍👧 Suitable for individuals, families and adventure lovers' ,image:'https://i.pinimg.com/736x/63/56/20/635620b1bd58aa436708973653d5b381.jpg' },
-{id:3 , name4:'event3' , description3:'this is the fourth party' ,image:'https://i.pinimg.com/736x/e8/9e/00/e89e00add913e579a735f0b19c163581.jpg' },
+{id:3 , name4:'event3' , description3:'this is the fourth party' ,image:'https://i.pinimg.com/736x/e8/9e/00/e89e00add913e579a735f0b19c163581.jpg'  },
 // {id:4 , name4:'event4' ,description4:'this is the fourth party' },
 ]
 
@@ -66,7 +67,7 @@ const party3 =[
             party
           </Typography>
           <Typography variant="body2" sx={{ color: 'text.secondary' }}>
-           
+           🎉✨ Get ready for an atmosphere full of fun and excitement! Our parties combine great music, dancing, and an unforgettable festive atmosphere with friends and family. 🕺💃🎶
           </Typography>
         </CardContent>
       </CardActionArea>
@@ -123,7 +124,7 @@ const party3 =[
             desert
           </Typography>
           <Typography variant="body2" sx={{ color: 'text.secondary' }}>
-           
+           🏜️✨ Live an unforgettable adventure amidst the sand dunes! Enjoy camel riding, safaris, and sandboarding under the enchanting desert sky. 🌟🐪
           </Typography>
         </CardContent>
       </CardActionArea>
@@ -185,7 +186,7 @@ const party3 =[
             Cinema
           </Typography>
           <Typography variant="body2" sx={{ color: 'text.secondary' }}>
-           
+           🎬✨ Enjoy an unforgettable cinematic experience! Watch the latest movies on a big screen, enjoy amazing sound and picture, and immerse yourself in a world of stories and adventures. 🍿🌟
           </Typography>
         </CardContent>
       </CardActionArea>

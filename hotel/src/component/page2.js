@@ -43,11 +43,11 @@ const servicesing =[
         />
         <CardContent>
           <Typography gutterBottom variant="h5" component="div">
-            Lizard
+            restaurant
           </Typography>
           <Typography variant="body2" sx={{ color: 'text.secondary' }}>
-            Lizards are a widespread group of squamate reptiles, with over 6,000
-            species, ranging across all continents except Antarctica
+            🔥 Are you looking for an irresistible taste?
+Enjoy with us a unique experience of the most delicious and tasty foods prepared with the finest ingredients and highest quality standards.
           </Typography>
         </CardContent>
       </CardActionArea>
@@ -102,11 +102,11 @@ const servicesing =[
         />
         <CardContent>
           <Typography gutterBottom variant="h5" component="div">
-            Lizard
+            massage
           </Typography>
           <Typography variant="body2" sx={{ color: 'text.secondary' }}>
-            Lizards are a widespread group of squamate reptiles, with over 6,000
-            species, ranging across all continents except Antarctica
+           ✨ Do you feel tired or stressed from the stresses of daily life?
+           We offer you a professional massage experience that helps you relax and regain your energy and vitality
           </Typography>
         </CardContent>
       </CardActionArea>
@@ -162,11 +162,10 @@ const servicesing =[
         />
         <CardContent>
           <Typography gutterBottom variant="h5" component="div">
-            Lizard
+            beauty salon
           </Typography>
           <Typography variant="body2" sx={{ color: 'text.secondary' }}>
-            Lizards are a widespread group of squamate reptiles, with over 6,000
-            species, ranging across all continents except Antarctica
+            💇‍♀️✨ Renew your look with modern haircuts and attractive dyes! Our professional team will give you healthy, shiny hair, ready for every occasion. Book now and enjoy a beauty that suits you!
           </Typography>
         </CardContent>
       </CardActionArea>
@@ -218,11 +217,10 @@ const servicesing =[
         />
         <CardContent>
           <Typography gutterBottom variant="h5" component="div">
-            Lizard
+           sport
           </Typography>
           <Typography variant="body2" sx={{ color: 'text.secondary' }}>
-            Lizards are a widespread group of squamate reptiles, with over 6,000
-            species, ranging across all continents except Antarctica
+           Get ready to change your life and build a healthy and active body!
           </Typography>
         </CardContent>
       </CardActionArea>
