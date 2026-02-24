@@ -30,8 +30,8 @@ const servicesing =[
     
 
         return (
-            <div id='page2'>
-                    <div className='div1'>
+
+        <div className='div1'>
 
  <Card sx={{ maxWidth: 345 }} >
       <CardActionArea>
@@ -47,7 +47,7 @@ const servicesing =[
           </Typography>
           <Typography variant="body2" sx={{ color: 'text.secondary' }}>
             🔥 Are you looking for an irresistible taste?
-Enjoy with us a unique experience of the most delicious and tasty foods prepared with the finest ingredients and highest quality standards.
+             Enjoy with us a unique experience of the most delicious and tasty foods prepared with the finest ingredients and highest quality standards.
           </Typography>
         </CardContent>
       </CardActionArea>
@@ -70,7 +70,8 @@ Enjoy with us a unique experience of the most delicious and tasty foods prepared
                         </div>
 
 
-                    </li>)
+                    </li>
+                    )
 
                 }
 
@@ -145,12 +146,12 @@ Enjoy with us a unique experience of the most delicious and tasty foods prepared
 
 
 
-              </div>
+              
 
 
 
 
-    <div className='div2'>
+    
 
  <Card sx={{ maxWidth: 345 }}>
       <CardActionArea>
@@ -257,7 +258,7 @@ Enjoy with us a unique experience of the most delicious and tasty foods prepared
       </CardActions>
     </Card>
 
-  </div>
+  
 
 
 
